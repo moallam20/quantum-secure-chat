@@ -48,5 +48,4 @@ The system works as follows:
 
 
 
-## 🏗️ Project Structure
 
